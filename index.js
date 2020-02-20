@@ -7,5 +7,6 @@ function writeCards(names, eventName) {
 }
 
 function countDown(int) {
-  
+  let i = int;
+  while i 
 }
