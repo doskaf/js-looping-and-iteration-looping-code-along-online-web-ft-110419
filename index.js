@@ -1,1 +1,3 @@
-function writeCards(stringNames, eventName)
+function writeCards(stringNames, eventName) {
+  for (let i = 0; i < stringNames.length; i++)
+}
