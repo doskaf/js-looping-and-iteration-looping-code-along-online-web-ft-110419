@@ -6,6 +6,6 @@ function writeCards(names, eventName) {
   return thankYouMsgs;
 }
 
-function countDown() {
+function countDown(int) {
   
 }
