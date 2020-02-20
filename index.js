@@ -5,3 +5,7 @@ function writeCards(names, eventName) {
   }
   return thankYouMsgs;
 }
+
+function countDown() {
+  
+}
